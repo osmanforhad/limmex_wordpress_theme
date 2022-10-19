@@ -1,0 +1,191 @@
+/* ---------------------------------------------------------------------------------------
+* 
+* Template:		
+* Author:		Limmex Automation
+* URL:			https://www.limmexautomation.com		
+*
+
+--------------------------------------------------------------------------------------- */
+
+@media only screen and (min-width: 768px) and (max-width:1200px) {
+    .header-bottom img {
+        margin-top: 15px;
+    }
+      .technology ul li{
+        width: 25% !important;
+    }
+   
+}
+
+@media only screen and (max-width: 767px) {}
+
+@media only screen and (min-width: 320px) and (max-width:767px) {
+
+    .mb-xs-30 {
+        margin-bottom: 30px;
+    }
+    .mt-xs-30 {
+        margin-top: 100px;
+    }
+
+    .apps-list h1 {
+        font-size: 30px;
+    }
+
+
+    .header-bottom {
+        height: 69px;
+        position: fixed;
+        top: 0;
+    }
+
+    .header-bottom .main-menu ul li {
+        margin-left: 18px;
+    }
+
+    .header-bottom .main-menu ul li a {
+        font-size: 13px;
+    }
+
+    .header-bottom img {
+        margin-top: 12px;
+    }
+
+    .header-bottom img {
+        width: 170px;
+
+    }
+
+    header.header-destop {
+        background: #fff;
+        height: 75px;
+        box-shadow: 7px 7px 40px 6px hsl(0deg 0% 6% / 5%);
+    }
+    header.sticky{
+            background-color: #ddd0 !important;
+            box-shadow: none !important;
+    }
+
+    .circle {
+        left: 13px;
+    }
+
+    .howotworks-bg-shape {
+        -webkit-transform: translate(1%, -18%) rotate(1deg);
+        transform: translate(1%, -18%) rotate(1deg);
+    }
+
+    .header-apps-bg-shape {
+        -webkit-transform: translate(10%, -14%) rotate(-22deg);
+        transform: translate(10%, -14%) rotate(-22deg);
+    }
+
+    .text-center-xs {
+        text-align: center;
+    }
+
+    .w-m-100 {
+        width: 100%;
+    }
+
+    footer .primary-footer .f-social ul li {
+        float: inherit !important;
+    }
+
+    .testmonial.slick-slide {
+        margin: 0px 10px !important;
+    }
+
+    .project-item .item img {
+        height: 203px !important;
+    }
+
+    .project-item .slick-slide.slick-active img {
+        width: 100% !important;
+    }
+
+    .testmonial.slick-active .content,
+    .testmonial .content {
+        padding: 20px !important;
+    }
+
+    .testmonial .content .author {
+        width: 100% !important;
+    }
+
+    .project-list .slick-prev,
+    .testimonial-sliders .slick-prev {
+        left: -10px !important;
+    }
+
+    .project-list .slick-next,
+    .testimonial-sliders .slick-next {
+        right: 20px !important;
+    }
+
+    .project-list {
+        margin-top: -349px !important;
+    }
+
+    .projects-title {
+        padding-bottom: 288px !important;
+    }
+
+    .project-item .content {
+        bottom: -24px !important;
+    }
+
+    .project-item .item .icon {
+        top: 33% !important;
+        left: 44% !important;
+    }
+
+    .what-we-do .wedo p {
+        width: 100% !important;
+    }
+    .technology ul li{
+        width: 33% !important;
+    }
+     .technology ul li:nth-of-type(even){
+        margin-top: 0px !important;
+    }
+    .bg-box-rectangle{
+        opacity: 0;
+    }
+
+
+}
+
+@media only screen and (min-width: 1600px) and (max-width:1920px) {
+    
+}
+
+
+
+@media only screen and (min-width: 1200px) and (max-width:1600px) {
+    .technology li{
+        margin-bottom: 30px !important;
+    }
+    .technology img {
+       margin: 4px !important;
+    }
+    .app-service .content h2 {
+    font-size: 17px !important;
+    line-height: 24px !important;
+}
+    .testmonial.slick-active .content, .testmonial .content  {
+        padding: 50px 34px !important;
+    }
+    .testmonial .content .author {
+        width: 100% !important;
+    }
+    .feat {
+    margin-top: 200px !important;
+     }
+}
+
+@media only screen and (min-width: 550px) and (max-width:767px) {
+    .header-bottom img {
+        margin-top: 20px;
+    }
+}
